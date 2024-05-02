@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="a12@10.106.146.32:12138" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="a12@10.106.146.32:12138">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/a12/Suogh/MyTransformer/SPIN" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="a12@10.106.146.32:12138 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/a12/Suogh/MyTransformer/SPIN" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="a12@10.106.146.32:12138 password (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/a12/Suogh/MyTransformer/SPIN" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="a12@10.106.146.32:12138 password (11)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/a12/Suogh/MyTransformer/SPIN" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="accqlcm04g@eshell111.hpccube.com:65082">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="mathuser3@210.47.30.36:22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="mathuser3@210.47.30.36:22 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="mathuser3@210.47.30.36:22 password (1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.westb.seetacloud.com:29960">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
